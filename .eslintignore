@@ -1,0 +1,12 @@
+.nuxt
+.nitro
+.cache
+.output
+/node_modules
+/dist
+/dist-ssr
+/.coverage
+/.temp
+/.vic
+*.vic
+!.prettierrc.json

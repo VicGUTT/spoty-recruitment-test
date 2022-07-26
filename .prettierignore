@@ -1,0 +1,12 @@
+.nuxt
+.nitro
+.cache
+.output
+/node_modules
+/dist
+/dist-ssr
+/.coverage
+/.temp
+/.vscode
+/.vic
+*.vic

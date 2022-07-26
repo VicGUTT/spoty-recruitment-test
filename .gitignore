@@ -1,0 +1,15 @@
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+*.local
+.DS_Store
+/node_modules
+/dist
+/dist-ssr
+/.coverage
+/.temp
+/.vic
+*.vic
